@@ -1,0 +1,10 @@
+Message ID: 9001258752
+Recipient: +27546789543
+Message: Hi nigga
+Message Hash: 90:0:HINIGGA
+------------------------
+Message ID: 4843093145
+Recipient: +27657869034
+Message: What broski
+Message Hash: 48:1:WHATBROSKI
+------------------------
